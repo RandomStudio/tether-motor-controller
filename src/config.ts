@@ -1,5 +1,5 @@
 const defaults = {
-  appName: "MyApp",
+  appName: "TetherMotoControl",
   loglevel: "info",
   serial: {
     port: "/dev/tty.usbserial-6",
